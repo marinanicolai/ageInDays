@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+.flex-box-container-1 {
+  display: flex;
+  border: 1px solid black;
+  padding: 1px;
+  justify-content: space-around;
+}
+.flex-box-container-1 div {
+  padding: 10px;
+  border: 1px solid black;
+}
